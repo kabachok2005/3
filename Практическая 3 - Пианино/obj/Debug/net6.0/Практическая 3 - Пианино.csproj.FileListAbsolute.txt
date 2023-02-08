@@ -1,0 +1,15 @@
+C:\Users\klika\source\repos\Практическая 3 - Пианино\Практическая 3 - Пианино\bin\Debug\net6.0\Практическая 3 - Пианино.exe
+C:\Users\klika\source\repos\Практическая 3 - Пианино\Практическая 3 - Пианино\bin\Debug\net6.0\Практическая 3 - Пианино.deps.json
+C:\Users\klika\source\repos\Практическая 3 - Пианино\Практическая 3 - Пианино\bin\Debug\net6.0\Практическая 3 - Пианино.runtimeconfig.json
+C:\Users\klika\source\repos\Практическая 3 - Пианино\Практическая 3 - Пианино\bin\Debug\net6.0\Практическая 3 - Пианино.dll
+C:\Users\klika\source\repos\Практическая 3 - Пианино\Практическая 3 - Пианино\bin\Debug\net6.0\Практическая 3 - Пианино.pdb
+C:\Users\klika\source\repos\Практическая 3 - Пианино\Практическая 3 - Пианино\obj\Debug\net6.0\Практическая 3 - Пианино.csproj.AssemblyReference.cache
+C:\Users\klika\source\repos\Практическая 3 - Пианино\Практическая 3 - Пианино\obj\Debug\net6.0\Практическая 3 - Пианино.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klika\source\repos\Практическая 3 - Пианино\Практическая 3 - Пианино\obj\Debug\net6.0\Практическая 3 - Пианино.AssemblyInfoInputs.cache
+C:\Users\klika\source\repos\Практическая 3 - Пианино\Практическая 3 - Пианино\obj\Debug\net6.0\Практическая 3 - Пианино.AssemblyInfo.cs
+C:\Users\klika\source\repos\Практическая 3 - Пианино\Практическая 3 - Пианино\obj\Debug\net6.0\Практическая 3 - Пианино.csproj.CoreCompileInputs.cache
+C:\Users\klika\source\repos\Практическая 3 - Пианино\Практическая 3 - Пианино\obj\Debug\net6.0\Практическая 3 - Пианино.dll
+C:\Users\klika\source\repos\Практическая 3 - Пианино\Практическая 3 - Пианино\obj\Debug\net6.0\refint\Практическая 3 - Пианино.dll
+C:\Users\klika\source\repos\Практическая 3 - Пианино\Практическая 3 - Пианино\obj\Debug\net6.0\Практическая 3 - Пианино.pdb
+C:\Users\klika\source\repos\Практическая 3 - Пианино\Практическая 3 - Пианино\obj\Debug\net6.0\Практическая 3 - Пианино.genruntimeconfig.cache
+C:\Users\klika\source\repos\Практическая 3 - Пианино\Практическая 3 - Пианино\obj\Debug\net6.0\ref\Практическая 3 - Пианино.dll
